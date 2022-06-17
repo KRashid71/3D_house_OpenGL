@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1598712733 source:e:\ewu\summer 2020\summer 2020\cse420\project\opengl demo\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 e:\ewu\summer 2020\summer 2020\cse420\project\opengl demo\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1621682867 source:d:\420 project ref materials\opengl demo\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1598692880 d:\420 project ref materials\opengl demo\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1621772930 source:d:\420 project ref materials\opengl demo-20210522t141626z-001\opengl demo\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1598646080 d:\420 project ref materials\opengl demo-20210522t141626z-001\opengl demo\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1621865752 source:d:\420 project ref materials\asd\3d house final\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1598646080 d:\420 project ref materials\asd\3d house final\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
